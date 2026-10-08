@@ -26,7 +26,7 @@
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 
 #### Ответ
-![Задание 3](https://github.com/stlpn/neto-db-hw4/blob/main/img/img3.png)
+![Задание 3](https://github.com/stlpn/neto-db-hw4/blob/main/img/img3_2.png)
 
 ---
 
